@@ -26,7 +26,7 @@ Before opening our surf and ice cream shops with B. Wavy we have to analyze temp
 
 ### Results
 
-Three major points and key differences in weather between June and December from our analysis:
+**Three major points and key differences in weather between June and December from our analysis:**
 
 - The highest temperature for June was 85 degrees, the highest temperature for December was 83 degrees.
 - On average it is warmer in June than it is in December in Oahu.
